@@ -1,0 +1,5 @@
+venv/
+Crawler/__pycache__/
+Front_end/__pycache__/
+Front_end/config_front/__pycache__/
+.DS_Store
